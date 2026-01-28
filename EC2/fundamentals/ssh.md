@@ -26,7 +26,7 @@ $ ssh -i \ec2_train.pem ec2-user@ec2_public-ip
       ~~._.   _/
          _/ _/
        _/m/'
-[ec2-user@ip-peivate-ip ~]$ ^C
+[ec2-user@ip-private-ip ~]$ ^C
 [ec2-user@ip-private-ip ~]$
 logout
 Connection to ec2_public-ip closed.
@@ -35,4 +35,5 @@ Connection to ec2_public-ip closed.
 
 
 >[!Note]
->Ensure The Security Group for Instanse has Inbound access to port 22 and your Ip
+>Ensure The Security Group for Instanse has Inbound access to *port 22* and your Ip <br>
+>*Ctrl + D* to exit
