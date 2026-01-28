@@ -1,5 +1,5 @@
-## Connect from Shell
- ![Tux, the Linux mascot](/assets/images/tux.png)
+## ![Tux, the Linux mascot](/images/shell.svg) Connect from Shell
+ 
 
 - Download SSH key
   > *perm for >=Win10/ Linux/ Mac* <br>
